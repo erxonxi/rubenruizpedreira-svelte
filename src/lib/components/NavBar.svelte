@@ -1,6 +1,8 @@
 <script lang="ts">
 	import logo from '$lib/images/logo.png';
 
+	export let lang: string;
+
 	let menuOpened = false;
 
 	function toggleMenu() {
@@ -10,19 +12,17 @@
 
 <nav class="navbar">
 	<div>
-		<a href="/">
-			<img src={logo} alt="logo" width="32px" height="32px" />
+		<a href="/{lang}">
+			<img src={logo} alt="logo" width="38px" height="38px" />
 		</a>
 	</div>
 
 	<div class="navbar__links">
-		<a href="/">Home</a>
-		<a href="/about">About</a>
+		<a href="/{lang}/about">About</a>
 	</div>
 
 	<div class="navbar__mobile_menu" style="display: {menuOpened ? 'flex' : 'none'}">
-		<a href="/">Home</a>
-		<a href="/about">About</a>
+		<a href="/{lang}/about">About</a>
 	</div>
 
 	<div on:click={toggleMenu} class="navbar__mobile_menu_icon">
