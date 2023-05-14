@@ -53,7 +53,7 @@
 		justify-content: space-between;
 		align-items: center;
 		background-color: #fff;
-		padding: 0.5rem 2rem;
+		padding: 1rem 1.25rem;
 		position: relative;
 	}
 
