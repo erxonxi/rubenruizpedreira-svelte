@@ -9,9 +9,9 @@
 </script>
 
 <nav class="navbar">
-	<div class="navbar__logo">
+	<div>
 		<a href="/">
-			<img src={logo} alt="logo" />
+			<img src={logo} alt="logo" width="32px" height="32px" />
 		</a>
 	</div>
 
@@ -20,7 +20,7 @@
 		<a href="/about">About</a>
 	</div>
 
-	<div class="navbar__mobile_menu" style="display: {menuOpened ? 'block' : 'none'}">
+	<div class="navbar__mobile_menu" style="display: {menuOpened ? 'flex' : 'none'}">
 		<a href="/">Home</a>
 		<a href="/about">About</a>
 	</div>
@@ -57,14 +57,6 @@
 		position: relative;
 	}
 
-	.navbar__logo {
-		width: 2rem;
-	}
-
-	.navbar__logo img {
-		width: 100%;
-	}
-
 	.navbar__links {
 		display: flex;
 		align-items: center;
@@ -85,19 +77,27 @@
 
 	.navbar__mobile_menu {
 		display: none;
+		border-radius: 4px;
+		flex-direction: column;
 		position: absolute;
 		top: 100%;
-		left: 0;
+		left: 37%;
 		background: #fff;
-		width: 100%;
+		width: 60%;
 		padding: 1rem;
 		box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+		gap: 1rem;
 	}
 
 	.navbar__mobile_menu a {
 		display: block;
-		margin-bottom: 1rem;
 		color: #000;
+		padding: 1rem 1rem;
+		border-radius: 4px;
+	}
+
+	.navbar__mobile_menu a:hover {
+		background-color: #f1f1f1;
 	}
 
 	.navbar__mobile_menu_icon {
