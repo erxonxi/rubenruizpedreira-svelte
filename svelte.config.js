@@ -10,8 +10,8 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		prerender: {
-      entries: supportedLocales.map(locale => `/${locale}`),
-    },
+			entries: supportedLocales.map((locale) => `/${locale}`)
+		}
 	}
 };
 

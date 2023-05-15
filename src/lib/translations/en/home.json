@@ -1,28 +1,28 @@
 {
-  "short_description": "Software Developer &amp; Freelancer",
-  "about_me": {
-    "title": "About Me",
-    "body": "Hi, I'm Rubén Ruiz Pedreira, a dedicated Software Developer with a deep interest in technology and a perpetual thirst for knowledge. I'm currently part of the team at Netex Learning, where I enhance the user experience by developing new features, refining existing code, and troubleshooting issues. I'm a firm believer in Domain Driven Design and always strive to follow best programming practices. When I'm not at work, I enjoy experimenting with new technologies and turning my creative ideas into reality through personal projects."
-  },
-  "my_career_path": {
-    "title": "My Career Path",
-    "body": "I embarked on my tech journey at Nemon Intelligence in Business, where I cut my teeth as a Junior Web Software Developer before moving into Quality Management. Now, I'm honing my skills at Netex Learning and also taking on freelance projects that allow me to explore different applications of my expertise."
-  },
-  "my_work": {
-    "title": "My Work",
-    "body": "My career has given me the chance to work on a diverse array of projects. Some of my standout freelance contributions include a Wallet App for managing cryptocurrency portfolios and a CLI DevOps tool for overseeing deployed services. At Netex Learning, I've played a key role in developing SmartED, a comprehensive platform for managing academic tasks and monitoring student performance."
-  },
-  "interests": {
-    "title": "Interests",
-    "body": "Apart from coding, I have a keen interest in architecture and systems, and I'm always excited to explore new advancements like Docker and Kubernetes. When I'm not immersed in the tech world, you'll probably find me enjoying electronic music, another of my passions."
-  },
-  "expertise": {
-    "title": "Expertise",
-    "body": "I've acquired a broad skill set over the years, mastering various programming languages and tools. My expertise includes ReactJS, Electron, TypeScript, and Golang, to name a few. I'm also a strong proponent of quality assurance and have integrated end-to-end testing with Cypress into my development workflow."
-  },
-  "connect_with_me": {
-    "title": "Connect with Me",
-    "body1": "I'm always eager to explore new opportunities and collaborations. Don't hesitate to connect with me on",
-    "body2": "or check out my work on"
-  }
+	"short_description": "Software Developer",
+	"about_me": {
+		"title": "About Me",
+		"body": "Hi, I'm Rubén Ruiz Pedreira, a dedicated Software Developer with a deep interest in technology and a perpetual thirst for knowledge. I'm currently part of the team at Netex Learning, where I enhance the user experience by developing new features, refining existing code, and troubleshooting issues. I'm a firm believer in Domain Driven Design and always strive to follow best programming practices. When I'm not at work, I enjoy experimenting with new technologies and turning my creative ideas into reality through personal projects."
+	},
+	"my_career_path": {
+		"title": "My Career Path",
+		"body": "I embarked on my tech journey at Nemon Intelligence in Business, where I cut my teeth as a Junior Web Software Developer before moving into Quality Management. Now, I'm honing my skills at Netex Learning and also taking on freelance projects that allow me to explore different applications of my expertise."
+	},
+	"my_work": {
+		"title": "My Work",
+		"body": "My career has given me the chance to work on a diverse array of projects. Some of my standout freelance contributions include a Wallet App for managing cryptocurrency portfolios and a CLI DevOps tool for overseeing deployed services. At Netex Learning, I've played a key role in developing SmartED, a comprehensive platform for managing academic tasks and monitoring student performance."
+	},
+	"interests": {
+		"title": "Interests",
+		"body": "Apart from coding, I have a keen interest in architecture and systems, and I'm always excited to explore new advancements like Docker and Kubernetes. When I'm not immersed in the tech world, you'll probably find me enjoying electronic music, another of my passions."
+	},
+	"expertise": {
+		"title": "Expertise",
+		"body": "I've acquired a broad skill set over the years, mastering various programming languages and tools. My expertise includes ReactJS, Electron, TypeScript, and Golang, to name a few. I'm also a strong proponent of quality assurance and have integrated end-to-end testing with Cypress into my development workflow."
+	},
+	"connect_with_me": {
+		"title": "Connect with Me",
+		"body1": "I'm always eager to explore new opportunities and collaborations. Don't hesitate to connect with me on",
+		"body2": "or check out my work on"
+	}
 }

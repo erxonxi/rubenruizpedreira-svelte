@@ -36,46 +36,39 @@
 		flex-direction: column;
 		flex: 0.6;
 		padding: 0 2.5em;
-		padding-bottom: 2rem;
 		line-height: 1.6;
 	}
 
 	h1 {
 		font-family: var(--font-mono);
 		font-size: 2.5em;
-		color: #333;
+		color: #212a3e;
 		margin-bottom: 0.25em;
 	}
 
 	h2 {
 		font-family: var(--font-mono);
 		font-size: 1.8em;
-		color: #666;
+		color: #212a3e;
 		margin-bottom: 0.5em;
 	}
 
 	h3 {
 		font-family: var(--font-mono);
 		font-size: 1.75em;
-		color: #333;
+		color: #394867;
 		margin-bottom: 0.5em;
 		margin-left: 1em;
 	}
 
 	p {
 		font-size: 1.1em;
-		color: #666;
+		color: #212a3e;
 		text-align: justify;
 		line-height: 1.8;
 	}
 
 	a {
 		font-family: var(--font-mono);
-		color: #007bff;
-		text-decoration: none;
-	}
-
-	a:hover {
-		color: #0056b3;
 	}
 </style>

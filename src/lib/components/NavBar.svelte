@@ -52,7 +52,6 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		background-color: #fff;
 		padding: 1rem 1.25rem;
 		position: relative;
 	}
@@ -82,7 +81,7 @@
 		position: absolute;
 		top: 100%;
 		left: 37%;
-		background: #fff;
+		background-color: var(--primary-surface);
 		width: 60%;
 		padding: 1rem;
 		box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -97,7 +96,7 @@
 	}
 
 	.navbar__mobile_menu a:hover {
-		background-color: #f1f1f1;
+		background-color: var(--primary-surface-shadow);
 	}
 
 	.navbar__mobile_menu_icon {

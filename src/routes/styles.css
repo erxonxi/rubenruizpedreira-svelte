@@ -5,7 +5,11 @@
 		Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	--font-mono: 'Fira Mono', monospace;
 
-	--primary-color: #f39a00;
+	--primary-color: #5c469c;
+	--primary-color-shadow: #77037b;
+
+	--primary-surface: #f1f6f9;
+	--primary-surface-shadow: #e0e0e0;
 
 	--text-color: #000;
 }
@@ -22,14 +26,7 @@ body {
 	min-height: 100vh;
 	margin: 0;
 	background-attachment: fixed;
-	background-color: var(--color-bg-1);
-	background-size: 100vw 100vh;
-	background-image: radial-gradient(
-			50% 50% at 50% 50%,
-			rgba(255, 255, 255, 0.75) 0%,
-			rgba(255, 255, 255, 0) 100%
-		),
-		linear-gradient(180deg, var(--color-bg-0) 0%, var(--color-bg-1) 15%, var(--color-bg-2) 50%);
+	background-color: var(--primary-surface);
 }
 
 h1,
@@ -48,6 +45,7 @@ a {
 }
 
 a:hover {
+	color: var(--primary-color-shadow);
 	text-decoration: none;
 }
 

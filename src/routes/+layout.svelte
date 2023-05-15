@@ -22,9 +22,28 @@
 	<slot />
 </main>
 
+<footer>
+	<p>
+		This page is powered by <a href="https://svelte.dev">Svelte</a> and{' '}
+		<a href="https://vercel.com">Vercel</a>
+	</p>
+</footer>
+
 <style>
 	.app {
 		margin: 0 auto;
 		max-width: 960px;
+	}
+
+	footer {
+		margin: 0 auto;
+		max-width: 960px;
+		text-align: center;
+		padding: 1rem 1.25rem;
+	}
+
+	footer p {
+		font-size: 0.9rem;
+		color: #666;
 	}
 </style>
