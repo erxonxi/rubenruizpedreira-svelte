@@ -2,27 +2,28 @@
 	"short_description": "Software Developer",
 	"about_me": {
 		"title": "About Me",
-		"body": "Hi, I'm Rubén Ruiz Pedreira, a dedicated Software Developer with a deep interest in technology and a perpetual thirst for knowledge. I'm currently part of the team at Netex Learning, where I enhance the user experience by developing new features, refining existing code, and troubleshooting issues. I'm a firm believer in Domain Driven Design and always strive to follow best programming practices. When I'm not at work, I enjoy experimenting with new technologies and turning my creative ideas into reality through personal projects."
+		"body": "Hello! I'm Rubén Ruiz Pedreira, a passionate software engineer with an insatiable curiosity for technology and a constant desire to learn. Currently, I'm contributing my experience and skills to the Netex Learning team, where I work to improve the user experience through the development of new features, optimization of existing code, and resolution of technical challenges. I firmly believe in Domain-Driven Design (DDD) and strive to follow the best programming practices. In my free time, I love experimenting with new technologies and bringing my ideas to life through personal projects."
 	},
 	"my_career_path": {
 		"title": "My Career Path",
-		"body": "I embarked on my tech journey at Nemon Intelligence in Business, where I cut my teeth as a Junior Web Software Developer before moving into Quality Management. Now, I'm honing my skills at Netex Learning and also taking on freelance projects that allow me to explore different applications of my expertise."
+		"body": "My adventure in the world of technology began at Nemon Intelligence in Business, where I started as a Junior Web Developer and then moved to the Quality Management area. Now, at Netex Learning, I'm polishing my skills and also taking on freelance projects that allow me to explore new applications of my experience."
 	},
 	"my_work": {
-		"title": "My Work",
-		"body": "My career has given me the chance to work on a diverse array of projects. Some of my standout freelance contributions include a Wallet App for managing cryptocurrency portfolios and a CLI DevOps tool for overseeing deployed services. At Netex Learning, I've played a key role in developing SmartED, a comprehensive platform for managing academic tasks and monitoring student performance."
+		"title": "Highlighted Projects",
+		"body": "Throughout my career, I've had the opportunity to work on a variety of interesting projects. Some of my most notable contributions include the development of a Wallet Application to manage cryptocurrency portfolios and a DevOps CLI tool to monitor deployed services. At SmartED, Netex Learning, we have managed to implement automatic tests with Cypress."
 	},
 	"interests": {
 		"title": "Interests",
-		"body": "Apart from coding, I have a keen interest in architecture and systems, and I'm always excited to explore new advancements like Docker and Kubernetes. When I'm not immersed in the tech world, you'll probably find me enjoying electronic music, another of my passions."
+		"body": "In addition to programming, I'm fascinated by architecture and systems, and I'm always excited to explore new technologies like Docker and Kubernetes. When I'm not immersed in the world of technology, you'll probably find me enjoying electronic music, another of my great passions."
 	},
 	"expertise": {
 		"title": "Expertise",
-		"body": "I've acquired a broad skill set over the years, mastering various programming languages and tools. My expertise includes ReactJS, Electron, TypeScript, and Golang, to name a few. I'm also a strong proponent of quality assurance and have integrated end-to-end testing with Cypress into my development workflow."
+		"body": "Over the years, I've acquired a wide set of skills, mastering various programming languages and tools. My experience includes TypeScript and Golang, Rust, and frameworks like Svelte, and NextJS, among others. I'm also a strong advocate for quality assurance and integrated end-to-end testing with Cypress into my development workflow."
 	},
 	"connect_with_me": {
-		"title": "Connect with Me",
-		"body1": "I'm always eager to explore new opportunities and collaborations. Don't hesitate to connect with me on",
-		"body2": "or check out my work on"
+		"title": "Connect With Me",
+		"body1": "I'm always open to new opportunities and collaborations. Don't hesitate to connect with me on",
+		"body2": "or take a look at my work on",
+		"body3": "I'm excited about what the future can bring and hope to have the opportunity to work on projects that make a difference."
 	}
 }

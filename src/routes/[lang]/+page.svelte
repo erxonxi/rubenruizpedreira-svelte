@@ -26,7 +26,9 @@
 	<p>
 		{$t('home.connect_with_me.body1')}
 		<a href="https://www.linkedin.com/in/rub%C3%A9n-ruiz-pedreira/">LinkedIn</a>
-		{$t('home.connect_with_me.body2')} <a href="https://github.com/your-github-link">GitHub</a>.
+		{$t('home.connect_with_me.body2')} <a href="https://github.com/your-github-link">GitHub</a>. {$t(
+			'home.connect_with_me.body3'
+		)}
 	</p>
 </section>
 
@@ -37,38 +39,5 @@
 		flex: 0.6;
 		padding: 0 2.5em;
 		line-height: 1.6;
-	}
-
-	h1 {
-		font-family: var(--font-mono);
-		font-size: 2.5em;
-		color: #212a3e;
-		margin-bottom: 0.25em;
-	}
-
-	h2 {
-		font-family: var(--font-mono);
-		font-size: 1.8em;
-		color: #212a3e;
-		margin-bottom: 0.5em;
-	}
-
-	h3 {
-		font-family: var(--font-mono);
-		font-size: 1.75em;
-		color: #394867;
-		margin-bottom: 0.5em;
-		margin-left: 1em;
-	}
-
-	p {
-		font-size: 1.1em;
-		color: #212a3e;
-		text-align: justify;
-		line-height: 1.8;
-	}
-
-	a {
-		font-family: var(--font-mono);
 	}
 </style>

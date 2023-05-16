@@ -105,3 +105,36 @@ button:focus:not(:focus-visible) {
 	width: 1px;
 	white-space: nowrap;
 }
+
+h1 {
+	font-family: var(--font-mono);
+	font-size: 2.5em;
+	color: #212a3e;
+	margin-bottom: 0.25em;
+}
+
+h2 {
+	font-family: var(--font-mono);
+	font-size: 1.8em;
+	color: #212a3e;
+	margin-bottom: 0.5em;
+}
+
+h3 {
+	font-family: var(--font-mono);
+	font-size: 1.75em;
+	color: #394867;
+	margin-bottom: 0.5em;
+	margin-left: 1em;
+}
+
+p {
+	font-size: 1.1em;
+	color: #212a3e;
+	text-align: justify;
+	line-height: 1.8;
+}
+
+a {
+	font-family: var(--font-mono);
+}

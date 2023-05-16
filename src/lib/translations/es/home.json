@@ -2,27 +2,28 @@
 	"short_description": "Desarrollador de Software",
 	"about_me": {
 		"title": "Acerca de Mí",
-		"body": "Hola, soy Rubén Ruiz Pedreira, un Desarrollador de Software dedicado con un profundo interés en la tecnología y una perpetua sed de conocimiento. Actualmente formo parte del equipo de Netex Learning, donde mejoro la experiencia del usuario desarrollando nuevas funcionalidades, refinando el código existente y solucionando problemas. Soy un firme creyente en el Diseño Guiado por el Dominio y siempre me esfuerzo por seguir las mejores prácticas de programación. Cuando no estoy trabajando, disfruto experimentando con nuevas tecnologías y transformando mis ideas creativas en realidad a través de proyectos personales."
+		"body": "¡Hola! Soy Rubén Ruiz Pedreira, un apasionado ingeniero de software con una insaciable curiosidad por la tecnología y un constante deseo de aprender. Actualmente, estoy aportando mi experiencia y habilidades al equipo de Netex Learning, donde trabajo para mejorar la experiencia del usuario a través del desarrollo de nuevas funcionalidades, la optimización del código existente y la resolución de desafíos técnicos. Creo firmemente en el Diseño Guiado por el Dominio (DDD) y me esfuerzo por seguir las mejores prácticas de programación. En mi tiempo libre, me encanta experimentar con nuevas tecnologías y dar vida a mis ideas a través de proyectos personales."
 	},
 	"my_career_path": {
 		"title": "Mi Trayectoria Profesional",
-		"body": "Inicié mi viaje tecnológico en Nemon Intelligence in Business, donde comencé como Desarrollador de Software Web Junior antes de pasar a la Gestión de Calidad. Ahora, estoy perfeccionando mis habilidades en Netex Learning y también asumiendo proyectos freelance que me permiten explorar diferentes aplicaciones de mi experiencia."
+		"body": "Mi aventura en el mundo de la tecnología comenzó en Nemon Intelligence in Business, donde empecé como Desarrollador Web Junior y luego me trasladé al área de Gestión de Calidad. Ahora, en Netex Learning, estoy puliendo mis habilidades y también tomando proyectos freelance que me permiten explorar nuevas aplicaciones de mi experiencia."
 	},
 	"my_work": {
-		"title": "Mi Trabajo",
-		"body": "Mi carrera me ha dado la oportunidad de trabajar en una amplia gama de proyectos. Algunas de mis contribuciones freelance más destacadas incluyen una Aplicación de Billetera para administrar carteras de criptomonedas y una herramienta DevOps CLI para supervisar los servicios desplegados. En Netex Learning, he jugado un papel clave en el desarrollo de SmartED, una plataforma integral para gestionar tareas académicas y monitorear el rendimiento de los estudiantes."
+		"title": "Proyectos Destacados",
+		"body": "A lo largo de mi carrera, he tenido la oportunidad de trabajar en una variedad de proyectos interesantes. Algunas de mis contribuciones más notables incluyen el desarrollo de una Aplicación de Billetera para gestionar carteras de criptomonedas y una herramienta DevOps CLI para supervisar servicios desplegados. En SmartED, Netex Learning, hemos logrado implementar pruebas automáticas con Cypress."
 	},
 	"interests": {
 		"title": "Intereses",
-		"body": "Aparte de la programación, tengo un gran interés en la arquitectura y los sistemas, y siempre me emociona explorar nuevos avances como Docker y Kubernetes. Cuando no estoy inmerso en el mundo de la tecnología, probablemente me encontrarás disfrutando de la música electrónica, otra de mis pasiones."
+		"body": "Además de la programación, me fascina la arquitectura y los sistemas, y siempre estoy emocionado por explorar nuevas tecnologías como Docker y Kubernetes. Cuando no estoy sumergido en el mundo de la tecnología, probablemente me encontrarás disfrutando de la música electrónica, otra de mis grandes pasiones."
 	},
 	"expertise": {
 		"title": "Experiencia",
-		"body": "A lo largo de los años, he adquirido un amplio conjunto de habilidades, dominando varios lenguajes de programación y herramientas. Mi experiencia incluye ReactJS, Electron, TypeScript y Golang, por nombrar algunos. También soy un fuerte defensor de la garantía de calidad e integré las pruebas de extremo a extremo con Cypress en mi flujo de trabajo de desarrollo."
+		"body": "A lo largo de los años, he adquirido un amplio conjunto de habilidades, dominando varios lenguajes de programación y herramientas. Mi experiencia incluye TypeScript y Golang, Rust, y frameworks como Svelte, y NextJS, entre otros. También soy un firme defensor de la garantía de calidad e integré las pruebas de extremo a extremo con Cypress en mi flujo de trabajo de desarrollo."
 	},
 	"connect_with_me": {
 		"title": "Conéctate Conmigo",
-		"body1": "Siempre estoy dispuesto a explorar nuevas oportunidades y colaboraciones. No dudes en conectarte conmigo en",
-		"body2": "o echa un vistazo a mi trabajo en"
+		"body1": "Siempre estoy abierto a nuevas oportunidades y colaboraciones. No dudes en conectarte conmigo en",
+		"body2": "o echa un vistazo a mi trabajo en",
+		"body3": "Estoy emocionado por lo que el futuro puede traer y espero tener la oportunidad de trabajar en proyectos que hagan una diferencia."
 	}
 }
