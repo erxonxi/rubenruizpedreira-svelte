@@ -1,15 +1,8 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
-
-	import { loadTranslations } from '$lib/translations';
 	import NavBar from '$lib/components/NavBar.svelte';
 	import './styles.css';
 
 	export let data: any;
-
-	onMount(async () => {
-		await loadTranslations(data.stuff.lang, data.stuff.route);
-	});
 </script>
 
 <svelte:head>
